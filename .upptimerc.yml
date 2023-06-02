@@ -9,16 +9,14 @@ sites:
     url: https://ntrezowan.github.io
 
 status-website:
-  theme: dark
-  baseUrl: /uptime
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ntrezowan.github.io/uptime
-  # baseUrl: /your-repo-name
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ""
-  introTitle: "Uptime"
-  introMessage:
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
