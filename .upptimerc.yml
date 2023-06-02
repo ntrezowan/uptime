@@ -16,7 +16,7 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime
+  name: 
   introTitle: "Uptime"
   introMessage:
   navbar:
@@ -25,3 +25,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: 
