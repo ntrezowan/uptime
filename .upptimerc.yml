@@ -16,7 +16,7 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 
+  name: ""
   introTitle: "Uptime"
   introMessage:
   navbar:
@@ -27,4 +27,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: 
+  footer: ""
