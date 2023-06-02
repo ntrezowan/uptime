@@ -7,6 +7,8 @@ sites:
     url: https://331221.xyz
   - name: ntrezowan.github.io
     url: https://ntrezowan.github.io
+  - name: ntrezowan.github.io/blog
+    url: https://ntrezowan.github.io/blog
 
 status-website:
   theme: night
