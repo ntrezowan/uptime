@@ -34,5 +34,23 @@
     "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "ntrezowan.github.io/blog",
+    "url": "https://ntrezowan.github.io/blog",
+    "icon": "https://icons.duckduckgo.com/ip3/ntrezowan.github.io.ico",
+    "slug": "ntrezowan-github-io-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {}
   }
 ]
