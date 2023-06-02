@@ -9,7 +9,7 @@ sites:
     url: https://ntrezowan.github.io
 
 status-website:
-  theme: light
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
@@ -19,9 +19,9 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
