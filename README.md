@@ -1,4 +1,4 @@
-**Author: https://github.com/upptime/upptime**
+**Ref: https://github.com/upptime/upptime**
 
 ### Current Status
 
